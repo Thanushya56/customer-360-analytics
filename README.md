@@ -213,3 +213,5 @@ python scripts/load_data.py
 ## ⭐ If you found this useful
 
 Give this repo a ⭐ on GitHub!
+# customer-360-analytics
+fcecd265927f50ac29115084d4dfcef3b83da2db
